@@ -1,0 +1,13 @@
+# 本地登录凭证（api_key 由 scripts/authorize.js 写入，严禁提交）
+config.json
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Node
+node_modules/
+*.log
